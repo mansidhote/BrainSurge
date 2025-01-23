@@ -12,64 +12,64 @@ The app includes various cognitive games designed to assess patients' memory, pr
 
 ### 📱 Mobile App for Doctors
 
-🎮 Cognitive Games: Multiple games to assess cognitive abilities, including memory, problem-solving, and confusion.
+ Cognitive Games: Multiple games to assess cognitive abilities, including memory, problem-solving, and confusion.
 
-📊 Data Collection: Collects data such as time taken, accuracy, and memory performance during the games.
+ Data Collection: Collects data such as time taken, accuracy, and memory performance during the games.
 
-☁️ Firebase Integration: Stores patient data in a Firebase database for real-time tracking.
+ Firebase Integration: Stores patient data in a Firebase database for real-time tracking.
 
 ### 💻 Website for Doctors
 
-🩺 Patient Profiles: Doctors can search and view detailed patient profiles.
+ Patient Profiles: Doctors can search and view detailed patient profiles.
 
-📈 Data Analysis: Graphical representations of collected data to help analyze patients' cognitive performance.
+ Data Analysis: Graphical representations of collected data to help analyze patients' cognitive performance.
 
-🕵️‍♂️ Early Dementia Detection: Provides insights into potential early signs of dementia based on the test results.
+ Early Dementia Detection: Provides insights into potential early signs of dementia based on the test results.
 
 ## 💻 Technologies Used
 
 ### 📱 Mobile App
 
-🛠 Android Studio
-☁️ Firebase (for data storage and retrieval)
-🖥 Java
-🖌 XML (for UI design)
+ Android Studio
+ Firebase (for data storage and retrieval)
+ Java
+ XML (for UI design)
 
 ### 🌐 Website
-🎨 HTML, CSS (for the front-end)
-💻 JavaScript (for the back-end)
-🎯 Objectives
+ HTML, CSS (for the front-end)
+ JavaScript (for the back-end)
+ Objectives
 
 ## The main objectives of BrainSurge are:
 
-### 🧠 Early Detection of Dementia:
+### 1) Early Detection of Dementia:
 To provide a tool that helps healthcare professionals detect early signs of dementia through cognitive assessment games. This will facilitate timely intervention and better management of the condition.
 
-### 🔍 Comprehensive Assessment:
+### 2) Comprehensive Assessment:
 To offer a variety of cognitive games that assess different aspects of a patient's mental health, including memory, problem-solving skills, and overall cognitive function.
 
-### 📂 Patient Data Collection and Tracking:
+### 3) Patient Data Collection and Tracking:
 To securely collect and store patient data from cognitive assessments using Firebase, allowing real-time access and monitoring by healthcare providers.
 
-### 📊 Graphical Data Analysis:
+### 4) Graphical Data Analysis:
 To present the collected data in graphical representations (charts, graphs) on the doctor’s web dashboard. This helps healthcare professionals analyze cognitive performance and identify potential early signs of dementia.
 
-### 🖥 User-Friendly Interface:
+### 5) User-Friendly Interface:
 To design an easy-to-use interface for both healthcare providers and patients, ensuring accessibility and improving patient engagement.
 
 ## 🚀 Future Scope
 
-### ⌚ Integration with Wearables:
+### 1) Integration with Wearables:
 Integrating the app with wearable devices (e.g., smartwatches) to track daily activities, sleep patterns, and physical health, which could provide additional insights into cognitive health.
 
-### 🤖 Advanced Machine Learning Models:
+### 2) Advanced Machine Learning Models:
 Implementing machine learning algorithms to analyze data more effectively and predict the likelihood of developing dementia based on patterns observed in the cognitive tests and daily activities.
 
-### 📱 Cross-Platform Support:
+### 3) Cross-Platform Support:
 Expanding the mobile app to be compatible with both Android and iOS to reach a wider audience.
 
-### 📈 Enhanced Graphical Representations:
+### 4) Enhanced Graphical Representations:
 Adding more advanced visualizations such as heatmaps, trend graphs, and interactive reports to make the data easier to interpret for healthcare professionals.
 
-### 🏥 Data Sharing with Hospitals:
+### 5) Data Sharing with Hospitals:
 Enabling the sharing of patient data with hospitals or research institutions for collaborative diagnosis and treatment.
