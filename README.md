@@ -1,35 +1,35 @@
 # BrainSurge
 
 
-##Overview
+## Overview
 
 This project aims to develop a comprehensive solution for detecting early signs of dementia through a mobile app for doctors, along with a web-based dashboard for healthcare professionals to analyze patient data. The app includes various cognitive games designed to assess patients' memory, problem-solving skills, and mental health. The data collected from the app is analyzed and presented in graphical representations to assist doctors in identifying early signs of dementia.
 
-##Features
+## Features
 
-###1)Mobile App for Doctors
+1)Mobile App for Doctors
 Cognitive Games: Multiple games to assess cognitive abilities, including memory, problem-solving, and confusion.
 Data Collection: Collects data such as time taken, accuracy, and memory performance during the games.
 Firebase Integration: Stores patient data in a Firebase database for real-time tracking.
 
-###2)Website for Doctors
+2)Website for Doctors
 Patient Profiles: Doctors can search and view detailed patient profiles.
 Data Analysis: Graphical representations of collected data to help analyze patients' cognitive performance.
 Early Dementia Detection: Provides insights into potential early signs of dementia based on the test results.
 
-##Technologies Used
+## Technologies Used
 
-###1)Mobile App:
+1)Mobile App:
 Android Studio
 Firebase (for data storage and retrieval)
 Java
 XML (for UI design)
 
-###2)Website:
+2)Website:
 HTML, CSS (for the front-end)
 JavaScript (for the back-end)
 
-##Objectives
+## Objectives
 
 The main objectives of BrainSurge are:
 
@@ -43,7 +43,7 @@ The main objectives of BrainSurge are:
 
 5)User-Friendly Interface: To design an easy-to-use interface for both healthcare providers and patients, ensuring accessibility and improving patient engagement.
 
-##Future Scope
+## Future Scope
 
 While the project is focused on detecting early signs of dementia, there are numerous opportunities for further development and expansion:
 
