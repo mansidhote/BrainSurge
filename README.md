@@ -10,7 +10,7 @@ The app includes various cognitive games designed to assess patients' memory, pr
 
 ## 🌟 Features
 
-### 📱 Mobile App for Doctors
+###  Mobile App for Doctors
 
  Cognitive Games: Multiple games to assess cognitive abilities, including memory, problem-solving, and confusion.
 
@@ -18,7 +18,7 @@ The app includes various cognitive games designed to assess patients' memory, pr
 
  Firebase Integration: Stores patient data in a Firebase database for real-time tracking.
 
-### 💻 Website for Doctors
+###  Website for Doctors
 
  Patient Profiles: Doctors can search and view detailed patient profiles.
 
